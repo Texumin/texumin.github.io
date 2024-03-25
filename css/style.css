@@ -9,7 +9,7 @@ h1 {
 }
 
 .sidebar {
-    width: 100px;
+    width: 10%;
     height: 100%;
     position: fixed;
     z-index: 1;
@@ -40,5 +40,5 @@ h1 {
 }
 
 .content {
-    float: left;
+    width: 90%;
 }
