@@ -4,10 +4,15 @@ body {
 
 h1 {
     color: navy;
-    margin-lfeft: 20px;
+    margin-left: 20px;
 }
 
 ul.menu {
     text-align: left;
     font-family: "Beebopp";
+
+    list-style-type:none;
+
+    margin: 0px;
+    padding: 0px;
 }
