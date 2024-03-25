@@ -19,6 +19,7 @@ h1 {
     padding: 5px;
     margin: 10px;
     overflow-x: hidden;
+    float: left;
 }
 
 .sidebar ul {
@@ -41,4 +42,5 @@ h1 {
 
 .content {
     width: 90%;
+    float:left;
 }
