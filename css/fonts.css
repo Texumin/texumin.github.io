@@ -3,3 +3,9 @@
     src: url('/fonts/BEEBOPP.TTF') format('truetype');
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Wharmby';
+    src: url('/fonts/WHARMBY.TTF') format('truetype');
+    font-style: normal;
+}
