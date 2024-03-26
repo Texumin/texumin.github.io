@@ -9,3 +9,9 @@
     src: url('/fonts/WEDGIE.TTF') format('truetype');
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Griff3';
+    src: url('/fonts/GRIFF3.TTF') format('truetype');
+    font-style: normal;
+}

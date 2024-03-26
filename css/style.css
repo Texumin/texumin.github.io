@@ -39,6 +39,16 @@ h1 {
     text-decoration: none;
 }
 
+.mailme a:link {
+    color: black;
+    text-decoration: none;
+    font-family: "Griff3";
+}
+
+.mailme a:hover {
+    font-size: larger;
+}
+
 .content {
     margin-left: 12%;
 }
