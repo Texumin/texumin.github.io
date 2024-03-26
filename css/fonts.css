@@ -12,6 +12,7 @@
 
 @font-face {
     font-family: 'Griff3';
-    src: url('/fonts/GRIFF3.TTF') format('truetype');
+    src: url('griff3-webfont.woff2') format('woff2'), url('griff3-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
 }
