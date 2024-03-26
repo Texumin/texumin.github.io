@@ -22,10 +22,11 @@ h1 {
 }
 
 .sidebar ul {
+    display: table; 
+    margin: 0 auto;
     text-align: left;
     font-family: "Beebopp";
     list-style-type: none;
-    margin: 0px;
     padding: 0px;
 }
 
@@ -41,7 +42,6 @@ h1 {
 
 .mailme a:link {
     color: black;
-    text-align: center;
     text-decoration: none;
     font-family: "Griff3";
     font-size: 48pt;
